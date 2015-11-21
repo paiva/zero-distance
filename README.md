@@ -1,0 +1,4 @@
+# Zero Distance
+
+As part of the GLE Montreal 2015 City Sprawl Challenge, we defined city sprawl as the expansion of the city due to **inefficient** use of resources. This is relevant to Montreal since it has a student population of more than 248,000 students, many living off-campus. We have looked at three different ideas in which we ultimately decided to tackle the challenge of making housing affordable. Therefore, we propose the project **Zero Distance** which aims to renovate and transform neglected property into liveable, affordable and communal living spaces for students with the help of investors who will also benefit by the increase in the number of clientele, increased positive reputation, and better brand awareness. We strongly believe that Zero Distance will prevent City Sprawl, because not only is it replicable, but also very relevant and relational to other magnet cities. 
+
